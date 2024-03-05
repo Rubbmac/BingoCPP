@@ -1,0 +1,3 @@
+﻿  BingoChallenge.cpp
+H:\Other\Fabamaq Docs\Game_Math_Coding_Challenge\BingoChallenge\BingoChallenge\BingoChallenge.cpp(305,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BingoChallenge.vcxproj -> H:\Other\Fabamaq Docs\Game_Math_Coding_Challenge\BingoChallenge\x64\Debug\BingoChallenge.exe
